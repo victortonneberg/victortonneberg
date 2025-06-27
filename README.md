@@ -1,7 +1,4 @@
-## Victor Tønneberg
-
-
-# 💫 About Me:
+# 💫 Victor Tønneberg
 ⚡ Informasjonssystemer, datasikkerhet og web.<br>🔭 Høgskolen i Østfold
 
 
